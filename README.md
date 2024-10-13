@@ -1,1 +1,1 @@
-# Luxury-Jewelry-Mangata-and-Gallo
+This is a home page assignment for the Meta Frontend course in Coursera.
